@@ -1,7 +1,7 @@
-# Hi I'm Julia. I'm an intermediate Python coder based in Colorado. This is my code for a hangman game that can be played with a single player. This code is written in Python. You can find the code in the next three files. 
-# This code was inspired and partially mentored by Kylie Ying from her YouTube channel. You can find her Github profile at @kying18 and her YouTube at Kylie Ying. 
-# There are three files to this code: main, words, and hangman_visual. The main file contains most of the code for the game, the words file contain a list of words that can be implemented, and hangman_visual includes simple graphics board. You can name the files different things, but their names have been referenced throughout the code, so you will have to change all of those references.
-# In this game, the computer randomly chooses one of the words specified in the words file. You have to guess the word through each individual letter. You can replace, add, or change the word list. I suggest including a long list (you can copy and paste from dictionaries) so you get a variety of words. Besides, you won't know all the words so you can play by yourself. 
-# You can use any console to run this code. I generally use Pycharm, but Terminator is good too, as long as it supports Python.
-# In this project, I used the Random module.
-# To contact me about ideas and feedback for my project, you may email me at juliarose1026@gmail.com
+Hi I'm Julia. I'm an intermediate Python coder based in Colorado. This is my code for a hangman game that can be played with a single player. This code is written in Python. You can find the code in the next three files. 
+This code was inspired and partially mentored by Kylie Ying from her YouTube channel. You can find her Github profile at @kying18 and her YouTube at Kylie Ying. 
+There are three files to this code: main, words, and hangman_visual. The main file contains most of the code for the game, the words file contain a list of words that can be implemented, and hangman_visual includes simple graphics board. You can name the files different things, but their names have been referenced throughout the code, so you will have to change all of those references.
+In this game, the computer randomly chooses one of the words specified in the words file. You have to guess the word through each individual letter. You can replace, add, or change the word list. I suggest including a long list (you can copy and paste from dictionaries) so you get a variety of words. Besides, you won't know all the words so you can play by yourself. 
+You can use any console to run this code. I generally use Pycharm, but Terminator is good too, as long as it supports Python.
+In this project, I used the Random module.
+To contact me about ideas and feedback for my project, you may email me at juliarose1026@gmail.com
